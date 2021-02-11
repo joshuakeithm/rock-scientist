@@ -5,5 +5,3 @@ Additionally, I'll hightlight any scripts I find interesting for personal use.
 
 On this page, I intend to share any scripts that fit the above criteria and links to helpful resources. 
 
-Thanks,
-Josh
